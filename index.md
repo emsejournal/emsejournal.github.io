@@ -2,8 +2,7 @@
 
 ### About the journal
 
-[General information about Empirical Software Engineering](https://www.springer.com/computer/swe/journal/10664) on Springer.com
-
+[General information](https://www.springer.com/computer/swe/journal/10664) on Springer.com <br/>
 [Browse volumes & issues](https://link.springer.com/journal/10664) on Springer Link
 
 
