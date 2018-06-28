@@ -1,1 +1,8 @@
+title: Empirical Software Engineering journal
+description: 
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
