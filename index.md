@@ -8,4 +8,4 @@ Welcome to the webpage of Empiricial Software Engineering. The journal provides 
 
 ### Contact
 
-Any questions about the EMSE journal? Contact the Editors in Chief (TODO at googlegroups dot com) and we’ll help you sort it out.
+Any questions about the EMSE journal? Contact the Editors in Chief (emse-eic at googlegroups dot com) and we’ll help you sort it out.
