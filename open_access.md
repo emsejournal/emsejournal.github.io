@@ -12,3 +12,5 @@ Lists of eligible universities per country:
 - [Sweden](https://resource-cms.springernature.com/springer-cms/rest/v1/content/16690846/data/v1) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-swedish-authors))
 - [UK](https://resource-cms.springernature.com/springer-cms/rest/v1/content/16278834/data/v1) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-uk-authors))
 - [Qatar](https://resource-cms.springernature.com/springer-cms/rest/v1/content/16508400/data/v1) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-qatari-authors))
+
+Note that only the affiliation of the corresponding author is considered. So select the corresponding author based on this if you want to publish open access in EMSE.
