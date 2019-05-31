@@ -6,6 +6,8 @@ Welcome to the webpage of Empiricial Software Engineering. The journal provides 
 [Browse volumes & issues](https://link.springer.com/journal/10664) on Springer Link
 <br/>
 [Open access](open_access) in EMSE
+<br/>
+[Open Science Initiative](open_science)
 
 ### Contact
 
