@@ -2,7 +2,7 @@
 
 Springer Nature has institutional agreements for Open Access with universities in many countries. If you are a researcher in any of the included universities it means you can publish your EMSE article open access **at no charge to yourself**. You can find an overview of the agreements [here](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact).
 
-Lists of eligible universities per country:
+Lists of eligible universities per country (as of May 31, 2019, for current information visit [Springer Open Access](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact)):
 - [Austria](https://www.konsortien.at/ssl/springercompact.asp#institutions) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-austrian-authors))
 - [Finland](https://resource-cms.springernature.com/springer-cms/rest/v1/content/16578540/data/v1) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-finnish-authors))
 - Germany: Agreement with [Max Planck institutes](https://resource-cms.springernature.com/springer-cms/rest/v1/content/836152/data/v6) ([further info](https://www.springer.com/gp/open-access/springer-open-choice/springer-compact/agreements-max-planck-authors))
