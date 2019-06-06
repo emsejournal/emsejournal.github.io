@@ -8,6 +8,8 @@ Welcome to the webpage of Empiricial Software Engineering. The journal provides 
 [Open access](open_access) in EMSE
 <br/>
 [Open Science Initiative](open_science)
+<br/>
+[Some metrics](metrics) for EMSE
 
 ### Contact
 
