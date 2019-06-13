@@ -43,6 +43,6 @@ Deadline for submission: October 15, 2019
 
 ## Submission Instructions:
 
-Papers should be submitted through the Empirical Software Engineering website (http://www.editorialmanager.com/emse/). Choose "SI: SE4AI" as the Article Type.
+Papers should be submitted through the Empirical Software Engineering website [http://www.editorialmanager.com/emse/](http://www.editorialmanager.com/emse/). Choose "SI: SE4AI" as the Article Type.
 
 If you have questions/comments or would like to volunteer to be a reviewer of the papers, please contact the guest editors. 
