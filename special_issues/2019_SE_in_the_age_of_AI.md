@@ -1,4 +1,3 @@
-# Empirical Software Engineering Journal (EMSE)
 # Call for Papers:  Special Issue on"SE in the age of AI”
 
 ## Editors of the Special Issue:
@@ -7,8 +6,10 @@ Tim Menzies (NC State University, USA)  timm@ieee.org
 
 Chakkrit (Kla) Tantithamthavorn (Monash University, Australia) chakkrit.tantithamthavorn@monash.edu 
 
-Burak Turhan (Monash University, Australia)  turhanb@computer.org  
-_________________________________________________________________________________________________
+Burak Turhan (Monash University, Australia)  turhanb@computer.org
+
+<hr/>
+
 Any description of real-world “AI software” is a complex combination of AI modules (containing the algorithms)    with much other conventional code for data accessing, data cleansing, data labelling, model deployment, model evaluation, federation, storage, reporting, configuration management, etc. That is:
 
 * AI software is still software. 
@@ -31,14 +32,17 @@ Note to potential authors: A general EMSE paper may discuss AI for SE; e.g., a c
 * Requirements engineering methods that enable trade-offs between non-functional requirements of a software system containing an AI component.
 * Methods for packaging data for distribution with a  data miner.
 * Testing and Quality Assurance for AI software.
-* Etc.  Note that this list is just a small subset of the space of possible papers.
+
+Note that this list is just a small subset of the space of possible papers.
 
 If unsure if your paper might be suitable, please contact the special issue editors. 
 
-## Important Dates: Deadline for submission: October 15, 2019
+## Important Dates: 
+
+Deadline for submission: October 15, 2019
 
 ## Submission Instructions:
 
-**Papers should be submitted through the Empirical Software Engineering website (http://www.editorialmanager.com/emse/). Choose "SI: SE4AI" as the Article Type.**
+Papers should be submitted through the Empirical Software Engineering website (http://www.editorialmanager.com/emse/). Choose "SI: SE4AI" as the Article Type.
 
 If you have questions/comments or would like to volunteer to be a reviewer of the papers, please contact the guest editors. 
