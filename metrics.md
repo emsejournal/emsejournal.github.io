@@ -17,11 +17,14 @@ Rank overall covers the CiteScore category of "Software". Rank SE is based on 17
 
 For more details see [Scopus CiteScore page for EMSE](https://www.scopus.com/sourceid/18650#tabs=1).
 
-## Impact Factor - JIF
+## Clarivate's Journal Impact Factor
 
-| Year     | JIF    | Percentile |
-| -------- |:------:|:----------:|
-| 2017     | 2.933  | 89.9       |
-| 2016     | 3.275  | 93.9       |
-| 2015     | 1.393  | 75.0       |
-| 2014     | 2.161  | 91.8       |
+| Year     | JIF   | Rank overall | Rank SE      |
+| -------- |:-----:|:------------:|:------------:|
+| 2018     | 4.457 | 8th of 107   | 2nd of 18    |
+| 2017     | 2.933 | 11th of 104  | 2nd of 18    |
+| 2016     | 3.275 | 7th of 106   | 1st of 18    |
+| 2015     | 1.393 | 27th of 106  | 6th of 18    |
+| 2014     | 2.161 | 9th of 106   | 1st of 18    |
+
+Rank overall covers the Clarivate/JCR category of "Computer Science, Software Engineering". Rank SE is based on 18 journals that are relatively directly relevant for Software Engineering (or explicitly have SE in their name). The total number can change somewhat between years because of additions/deletions. Note that the JIF varies quite a lot between years since it is only based on a two-year window of measurements.
