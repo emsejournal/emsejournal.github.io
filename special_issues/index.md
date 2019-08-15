@@ -10,4 +10,6 @@
 
 ## Previous Special Issues
 
+Below is (a currently incomplete) list of previous special issues:
+
 - Software Engineering for Mobile Applications (July 31, 2018)
