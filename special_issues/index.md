@@ -29,4 +29,4 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 
 ### 2017
 - [Success and Failure in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9505-5)
-- [Negative Results in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0) (October 31st, 2015)
+- [Negative Results in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0)
