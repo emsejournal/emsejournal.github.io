@@ -8,7 +8,7 @@
 
 ## Published Special Issues
 
-Below is (a currently incomplete) list of some previous special issues (the ones published in 2017 or later):
+Below is (a currently incomplete) list of some previous special issues (the ones published in 2016 or later):
 
 ### To be published
 - Software Engineering for Mobile Applications (July 31st, 2018)
@@ -30,6 +30,15 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 ### 2017
 - [Success and Failure in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9505-5)
 - [Negative Results in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0)
+- [Empirical studies in software and systems traceability](https://link.springer.com/article/10.1007/s10664-017-9509-1)
+- [SSBSE 2015](https://link.springer.com/article/10.1007/s10664-017-9504-6)
+
+### 2016
+- [SSBSE 2014](https://link.springer.com/article/10.1007/s10664-016-9474-0)
+- [MSR 2014](https://link.springer.com/article/10.1007/s10664-016-9450-8)
+- [Empirical Evidence on Software Product Line Engineering](https://link.springer.com/article/10.1007/s10664-016-9439-3)
+- [Software Reverse Engineering](https://link.springer.com/article/10.1007/s10664-016-9433-9)
+- [Mining Software Repositories](https://link.springer.com/article/10.1007/s10664-016-9428-6)
 
 ### 2015
 - [ICSM 2013](https://link.springer.com/article/10.1007/s10664-015-9398-0)
