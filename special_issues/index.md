@@ -8,7 +8,7 @@
 
 ## Published Special Issues
 
-Below is (a currently incomplete) list of some previous special issues (the ones published in 2015 or later):
+Below is (a currently incomplete) list of some previous special issues (the ones published in 2014 or later):
 
 ### To be published
 - Software Engineering for Mobile Applications (July 31st, 2018)
