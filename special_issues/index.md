@@ -8,7 +8,7 @@
 
 ## Published Special Issues
 
-Below is (a currently incomplete) list of some previous special issues (the ones published in 2016 or later):
+Below is (a currently incomplete) list of some previous special issues (the ones published in 2015 or later):
 
 ### To be published
 - Software Engineering for Mobile Applications (July 31st, 2018)
@@ -22,6 +22,7 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 - [SANER 2017](https://link.springer.com/article/10.1007/s10664-018-9678-6)
 
 ### 2018
+- [REFSQ 2017](https://link.springer.com/article/10.1007/s10664-018-9624-7)
 - [Automated Software Repair](https://link.springer.com/article/10.1007/s10664-018-9632-7)
 - [ICSME 2016](https://link.springer.com/article/10.1007/s10664-018-9631-8)
 - [SCAM 2016](https://link.springer.com/article/10.1007/s10664-018-9610-0)
@@ -42,3 +43,5 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 
 ### 2015
 - [ICSM 2013](https://link.springer.com/article/10.1007/s10664-015-9398-0)
+- [MSR 2013](https://link.springer.com/article/10.1007/s10664-015-9383-7)
+- [ICSM 2012](https://link.springer.com/article/10.1007/s10664-015-9382-8)
