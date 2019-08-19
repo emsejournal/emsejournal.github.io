@@ -30,3 +30,6 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 ### 2017
 - [Success and Failure in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9505-5)
 - [Negative Results in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0)
+
+### 2015
+- [ICSM 2013](https://link.springer.com/article/10.1007/s10664-015-9398-0)
