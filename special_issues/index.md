@@ -45,3 +45,9 @@ Below is (a currently incomplete) list of some previous special issues (the ones
 - [ICSM 2013](https://link.springer.com/article/10.1007/s10664-015-9398-0)
 - [MSR 2013](https://link.springer.com/article/10.1007/s10664-015-9383-7)
 - [ICSM 2012](https://link.springer.com/article/10.1007/s10664-015-9382-8)
+
+### 2014
+- [Resolving the challenges of time and distance (GSE)](https://link.springer.com/article/10.1007/s10664-014-9309-9)
+- [Program Comprehension](https://link.springer.com/article/10.1007/s10664-014-9329-5)
+- [Seach-Based Software Engineering](https://link.springer.com/article/10.1007/s10664-014-9310-3)
+- [Replications of software engineering Experiments](https://link.springer.com/article/10.1007/s10664-013-9290-8)
