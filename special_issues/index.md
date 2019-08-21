@@ -10,8 +10,9 @@
 
 Below is (a currently incomplete) list of published special issues (the ones published in 2014 or later):
 
-### To be published
-- Software Engineering for Mobile Applications (July 31st, 2018)
+### To be published / Upcoming
+- Software Engineering for Mobile Applications
+- SANER 2018
 
 ### 2019
 - [ICSME 2017](https://link.springer.com/article/10.1007/s10664-019-09740-7)
