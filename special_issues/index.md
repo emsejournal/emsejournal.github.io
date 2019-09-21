@@ -24,23 +24,23 @@ Below is (a currently incomplete) list of published special issues (the ones pub
 
 ### 2018
 - [REFSQ 2017](https://link.springer.com/article/10.1007/s10664-018-9624-7)
-- [Automated Software Repair](https://link.springer.com/article/10.1007/s10664-018-9632-7)
+- [Automatic Software Repair](https://link.springer.com/article/10.1007/s10664-018-9632-7)
 - [ICSME 2016](https://link.springer.com/article/10.1007/s10664-018-9631-8)
 - [SCAM 2016](https://link.springer.com/article/10.1007/s10664-018-9610-0)
 - [MSR 2016](https://link.springer.com/article/10.1007/s10664-018-9612-y)
 
 ### 2017
-- [Success and Failure in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9505-5)
-- [Negative Results in Software Engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0)
+- [Success and failure in software engineering](https://link.springer.com/article/10.1007/s10664-017-9505-5)
+- [Negative results in software engineering](https://link.springer.com/article/10.1007/s10664-017-9498-0)
 - [Empirical studies in software and systems traceability](https://link.springer.com/article/10.1007/s10664-017-9509-1)
 - [SSBSE 2015](https://link.springer.com/article/10.1007/s10664-017-9504-6)
 
 ### 2016
 - [SSBSE 2014](https://link.springer.com/article/10.1007/s10664-016-9474-0)
 - [MSR 2014](https://link.springer.com/article/10.1007/s10664-016-9450-8)
-- [Empirical Evidence on Software Product Line Engineering](https://link.springer.com/article/10.1007/s10664-016-9439-3)
-- [Software Reverse Engineering](https://link.springer.com/article/10.1007/s10664-016-9433-9)
-- [Mining Software Repositories](https://link.springer.com/article/10.1007/s10664-016-9428-6)
+- [Empirical evidence on software product line engineering](https://link.springer.com/article/10.1007/s10664-016-9439-3)
+- [Software reverse engineering](https://link.springer.com/article/10.1007/s10664-016-9433-9)
+- [Mining software repositories](https://link.springer.com/article/10.1007/s10664-016-9428-6)
 
 ### 2015
 - [ICSM 2013](https://link.springer.com/article/10.1007/s10664-015-9398-0)
@@ -49,6 +49,6 @@ Below is (a currently incomplete) list of published special issues (the ones pub
 
 ### 2014
 - [Resolving the challenges of time and distance (GSE)](https://link.springer.com/article/10.1007/s10664-014-9309-9)
-- [Program Comprehension](https://link.springer.com/article/10.1007/s10664-014-9329-5)
-- [Seach-Based Software Engineering](https://link.springer.com/article/10.1007/s10664-014-9310-3)
-- [Replications of software engineering Experiments](https://link.springer.com/article/10.1007/s10664-013-9290-8)
+- [Program comprehension](https://link.springer.com/article/10.1007/s10664-014-9329-5)
+- [Seach-based software sngineering](https://link.springer.com/article/10.1007/s10664-014-9310-3)
+- [Replications of software engineering experiments](https://link.springer.com/article/10.1007/s10664-013-9290-8)
