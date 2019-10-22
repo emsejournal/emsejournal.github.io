@@ -39,7 +39,7 @@ If unsure if your paper might be suitable, please contact the special issue edit
 
 ## Important Dates: 
 
-Deadline for submission: October 15, 2019
+Deadline for submission: extended until October 31, 2019
 
 ## Submission Instructions:
 
