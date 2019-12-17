@@ -1,9 +1,9 @@
 #Call for Papers — EMSE Special Issue on "Recommendation Systems for Software Engineering"
 
-###Empirical Software Engineering Journal
+##Empirical Software Engineering Journal
 http://www.springer.com/computer/swe/journal/10664
 
-###Editors of the Special Issue:
+##Editors of the Special Issue:
 
 Ali Ouni (ETS Montreal, University of Quebec, Canada), ali.ouni@etsmtl.ca
 David Lo (Singapore Management University, Singapore), davidlo@smu.edu.sg
@@ -25,7 +25,7 @@ The evaluation of papers will be based on:
 - Strength of empirical evaluation/basis.
 - Significance and reproducibility of the results.
 
-###Submission Topics
+##Submission Topics
 The topics of interest include, but are not limited to challenges, solutions, and innovations for recommendation systems for software engineering with respect to :
 - API recommendation
 - Service recommendation
@@ -58,11 +58,11 @@ In addition to description of novel approaches to design of recommendation syste
 - Applications of recommendation systems to support software engineering processes in industry, NGOs, cultural institutions, and the public and private sector
 - Replication studies of previously published studies pertaining to recommendation systems related to the aforementioned topics
 
-###Schedule
+##Schedule
 Submission Deadline:          April 30, 2020
 First Review Notification:       July 31, 2020
  
-###Submission Instructions
+##Submission Instructions
 Papers should be submitted through the Empirical Software Engineering website (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
 - And select “Recommendation Systems for Software Engineering" for "Please select the issue your manuscript belongs to.
