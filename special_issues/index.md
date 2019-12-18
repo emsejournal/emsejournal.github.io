@@ -1,10 +1,8 @@
 # Special Issues
 
 ## Open calls for papers
-
-- [SE in the age of AI](2019_SE_in_the_age_of_AI.md) (Deadline: October 15, 2019)
-- [NASAC 2019: Intelligent Software Engineering](http://nasac2019.zju.edu.cn/intelligent.html) (Deadline: September 30, 2019 (conference deadline was July 1st 2019))
 - [SPLC 2019: Configurable Systems](https://splc2019.net/call-for-papers/call-for-empirical-software-engineering-special-issue/) (January 15, 2020)
+- [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md) (April 30, 2020)
 
 ## Published Special Issues
 
@@ -13,6 +11,8 @@ Below is (a currently incomplete) list of published special issues (the ones pub
 ### To be published / Upcoming
 - Software Engineering for Mobile Applications
 - SANER 2018
+- [SE in the age of AI](2019_SE_in_the_age_of_AI.md)
+- [NASAC 2019: Intelligent Software Engineering](http://nasac2019.zju.edu.cn/intelligent.html) (Deadline: September 30, 2019 (conference deadline was July 1st 2019))
 
 ### 2019
 - [ICSME 2017](https://link.springer.com/article/10.1007/s10664-019-09740-7)
