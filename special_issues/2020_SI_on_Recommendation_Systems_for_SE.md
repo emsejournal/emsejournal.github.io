@@ -1,7 +1,6 @@
 # Call for Papers — EMSE Special Issue on "Recommendation Systems for Software Engineering"
 
-A special issue of the Empirical Software Engineering Journal:
-http://www.springer.com/computer/swe/journal/10664
+A special issue of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
 
 ## Editors of the Special Issue
 
@@ -59,7 +58,7 @@ In addition to description of novel approaches to design of recommendation syste
 - Replication studies of previously published studies pertaining to recommendation systems related to the aforementioned topics
 
 ## Schedule
-- Submission Deadline:          April 30, 2020
+- Submission Deadline:          **April 30, 2020**
 - First Review Notification:       July 31, 2020
  
 ## Submission Instructions
