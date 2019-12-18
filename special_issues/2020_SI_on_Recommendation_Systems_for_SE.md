@@ -62,8 +62,8 @@ In addition to description of novel approaches to design of recommendation syste
 - First Review Notification:       July 31, 2020
  
 ## Submission Instructions
-Papers should be submitted through the Empirical Software Engineering website (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
+Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
 - And select “Recommendation Systems for Software Engineering" for "Please select the issue your manuscript belongs to".
 
-For formatting guidelines as well as submission instructions, visit http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
+For formatting guidelines as well as submission instructions, visit [http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593)
