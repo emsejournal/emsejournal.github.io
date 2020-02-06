@@ -1,5 +1,5 @@
 # Metrics
-The view of the EMSE journal is that no single metric can accurately capture the complexity of a journal, the quality of the papers it publishes, or the review process. In particular, it is known to be problematic to judge the quality of a research paper based on the impact factor (or other metrics) of the venue where it is published. At the same time, it is known that in many hiring and promotion processes metrics is currently used. For pragmatic reasons we thus summarize some key metrics for EMSE below. However, the EMSE journal discourages the use of these metrics for simple comparisons of research output or quality, though.
+The view of the EMSE journal is that no single metric can accurately capture the complexity of a journal, the quality of the papers it publishes, or the review process. In particular, it is known to be problematic to judge the quality of a research paper based on the impact factor (or other metrics) of the venue where it is published. At the same time, it is known that in many hiring and promotion processes metrics are currently used. For pragmatic reasons we thus summarize some key metrics for EMSE below. However, the EMSE journal discourages the use of these metrics for simple comparisons of research output or quality.
 
 # Publisher's metrics for EMSE
 
