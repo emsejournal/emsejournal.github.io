@@ -2,6 +2,7 @@
 
 ## Open calls for papers
 - [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md) (April 30, 2020)
+- [SE in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
 ## Published Special Issues
 
