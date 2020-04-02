@@ -1,4 +1,4 @@
-# "Software Engineering and COVID-19" — Call for Papers
+# Call for Papers — "Software Engineering and COVID-19"  
 
 A topical collection of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
 
