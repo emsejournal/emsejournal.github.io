@@ -18,9 +18,9 @@ There is no submission deadline. Papers can be submitted at any time.
 
 Authors can request to *fast track manuscripts*. To request a fast track:
 
-Before submission: Please send an email with the title, author list, a preliminary abstract, and an estimated submission date to emse-eic@googlegroups.com. This will help recruit reviewers in advance and ask them to provide reviews quickly, so that authors get a timely decision. 
-After submission to the EditorialManager tool (see instructions below), please send a copy of the paper by email to emse-eic@googlegroups.com. This allows the review process to start while the paper is still undergoing editorial checks by the Springer team.
-We also encourage authors to share their pre-prints of their papers through open-access repositories such as [arXiv.org](https://arxiv.org/). 
+1. Before submission: Please send an email with the title, author list, a preliminary abstract, and an estimated submission date to emse-eic (at) googlegroups.com. This will help recruit reviewers in advance and ask them to provide reviews quickly, so that authors get a timely decision. 
+2. After submission to the EditorialManager tool (see instructions below), please send a copy of the paper by email to emse-eic (at) googlegroups.com. This allows the review process to start while the paper is still undergoing editorial checks by the Springer team.
+3. We also encourage authors to share their pre-prints of their papers through open-access repositories such as [arXiv.org](https://arxiv.org/). 
 
 Please note that a fast tracked submission will still go out to review and may require a round of revisions. The quality of the papers submitted to the topical collection takes priority over speed. Still, we are committed to streamlining the process as much as possible.
 
@@ -28,10 +28,10 @@ We expect that authors of fast tracked manuscripts are willing to review other p
  
 ## Reviewers Wanted
 
-If you’d like to to volunteer to review papers submitted to the special issue, please send an email to emse-eic@googlegroups.com
+If you’d like to to volunteer to review papers submitted to the special issue, please send an email to emse-eic (at) googlegroups.com
 
 ## Submission Instructions
-Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
+Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/)  as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
 - And select “Software Engineering and COVID-19" for "Please select the issue your manuscript belongs to".
 
