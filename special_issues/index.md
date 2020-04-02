@@ -1,6 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
+- [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any tie)
 - [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md) (April 30, 2020)
 - [SE in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
