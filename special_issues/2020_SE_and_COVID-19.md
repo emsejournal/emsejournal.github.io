@@ -14,6 +14,8 @@ This topical collection will collect papers where the pandemic is directly and/o
 
 There is no submission deadline. Papers can be submitted at any time.
 
+Papers will be published online first and in the next available issue.
+
 ## Fast track Manuscripts
 
 Authors can request to *fast track manuscripts*. To request a fast track:
@@ -28,7 +30,7 @@ We expect that authors of fast tracked manuscripts are willing to review other p
  
 ## Reviewers Wanted
 
-If you’d like to to volunteer to review papers submitted to the special issue, please send an email to emse-eic (at) googlegroups.com
+If you’d like to to volunteer to review papers submitted to the topical collection, please send an email to emse-eic (at) googlegroups.com
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/)  as follows (1) select “Research Papers” and (2) later on the Additional Information page:
