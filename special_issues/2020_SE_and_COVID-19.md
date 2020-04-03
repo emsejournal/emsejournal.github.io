@@ -30,7 +30,7 @@ We expect that authors of fast tracked manuscripts are willing to review other p
  
 ## Reviewers Wanted
 
-If you’d like to to volunteer to review papers submitted to the topical collection, please sign up at https://forms.gle/jB7KMbu5ktheLLhs8
+If you’d like to to volunteer to review papers submitted to the topical collection, please sign up at [https://forms.gle/jB7KMbu5ktheLLhs8](https://forms.gle/jB7KMbu5ktheLLhs8)
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/)  as follows (1) select “Research Papers” and (2) later on the Additional Information page:
