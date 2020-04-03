@@ -14,7 +14,7 @@ This topical collection will collect papers where the pandemic is directly and/o
 
 There is no submission deadline. Papers can be submitted at any time.
 
-Papers will be published online first and in the next available issue.
+Accepted papers will be published online first and in the next available issue.
 
 ## Fast track Manuscripts
 
