@@ -58,7 +58,7 @@ In addition to description of novel approaches to design of recommendation syste
 - Replication studies of previously published studies pertaining to recommendation systems related to the aforementioned topics
 
 ## Schedule
-- Submission Deadline:          **April 30, 2020**
+- Submission Deadline:          **extended until May 15, 2020** ~~(was: April 30,20)~~
 - First Review Notification:       July 31, 2020
  
 ## Submission Instructions
