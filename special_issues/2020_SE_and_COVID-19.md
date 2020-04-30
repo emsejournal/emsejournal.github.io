@@ -8,7 +8,7 @@ In a very short time the COVID-19 epidemic has spread over the world and affecte
 
 The pandemic is already reshaping the way we work, also in software engineering, and drives changes to processes, methods, the use of collaboration tools etc. More effects will likely be seen in the years to come. While focus must be on saving lives the empirical software engineering community can also play a role to help study and understand the effects of the pandemic and its many and broad repercussions. 
 
-This topical collection will collect papers where the pandemic is directly and/or indirectly driving the change and/or phenomena under study. The connection between the pandemic and submitted papers must be clear and explicit. Submitted papers must have a strong empirical basis/component to be eligible for this topical collection. The submissions will all be reviewed using the Empirical Software Engineering Journal standards. 
+This topical collection will collect papers where the pandemic is directly and/or indirectly driving the change and/or phenomena under study related to software engineering. The connection between the pandemic and submitted papers must be clear and explicit. Submitted papers must have a strong empirical basis/component and be related to software engineering to be eligible for this topical collection. The submissions will all be reviewed using the Empirical Software Engineering Journal standards. 
 
 ## Schedule
 
