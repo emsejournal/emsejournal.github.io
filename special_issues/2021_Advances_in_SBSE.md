@@ -20,6 +20,7 @@ The submissions will be reviewed using the Empirical Software Engineering Journa
 
 ## Schedule
 Submission Deadline:         **February 15, 2021**
+
 First Review Notification:   May 23, 2021
 
 ## Submission Instructions
