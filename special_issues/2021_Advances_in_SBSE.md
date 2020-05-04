@@ -3,8 +3,8 @@
 A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664).
 
 ## Editors of the Special Issue
-Aldeida Aleti, Monash University, Australia
-Annibale Panichella, Delft University of Technology, The Netherlands
+Aldeida Aleti, Monash University, Australia<br/>
+Annibale Panichella, Delft University of Technology, The Netherlands<br/>
 Shin Yoo, Korea Advanced Institute of Science and Technology, South Korea
 
 ## Scope
