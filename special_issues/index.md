@@ -3,6 +3,7 @@
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
 - [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md) (extended until May 15, 2020)
+- [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md) (January 29, 2021)
 - [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md) (February 15, 2021)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
