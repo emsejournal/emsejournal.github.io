@@ -1,6 +1,7 @@
 # Call for Papers — EMSE Special Issue on "Software Product Lines and Variability-rich Systems"
 
 A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664).
+
 http://www.springer.com/computer/swe/journal/1066
 
 ## Editors of the Special Issue
