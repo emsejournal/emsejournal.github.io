@@ -1,7 +1,6 @@
 # Call for Papers — EMSE Special Issue on "Software Product Lines and Variability-rich Systems"
 
-A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664).
-
+A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664). <br/>
 http://www.springer.com/computer/swe/journal/1066
 
 ## Editors of the Special Issue
@@ -46,12 +45,12 @@ The submissions will all be reviewed using the Empirical Software Engineering Jo
 Papers will undergo a rigorous reviewing process which for extended papers may include some of the reviewers of the original SPLC 2020 paper as well as some new reviewers.
 
 ## Submission Instructions
-Papers should be submitted through the Empirical Software Engineering editorial manager website (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
+Papers should be submitted through the Empirical Software Engineering editorial manager website ([http://www.editorialmanager.com/emse/](http://www.editorialmanager.com/emse/)) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
 - And select “Software Product Lines and Variability-rich Systems” for “Please select the issue your manuscript belongs to”.
 
 For formatting guidelines as well as submission instructions, visit
-http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
+[http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593)
 
 ## Schedule
 Submission Deadline: 	**Friday Jan 29, 2021**
