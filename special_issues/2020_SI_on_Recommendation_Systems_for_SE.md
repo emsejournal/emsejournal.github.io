@@ -59,7 +59,7 @@ In addition to description of novel approaches to design of recommendation syste
 
 ## Schedule
 - Submission Deadline:          **extended until May 15, 2020** ~~(was: April 30,20)~~
-- First Review Notification:       July 31, 2020
+- First Review Notification:       extended until August 31, 2020
  
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
