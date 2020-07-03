@@ -37,7 +37,7 @@ Submissions could deal with all aspects of the problem, including, but not limit
 # Schedule
 
 - Submission Deadline: 20 February 2021
-- First Review Notification target date: 20 May 2021
+- First Review Notification (target): 20 May 2021
 
 # Submission instructions
 
