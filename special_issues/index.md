@@ -12,7 +12,7 @@
 Below is (a currently incomplete) list of published special issues (the ones published in 2014 or later):
 
 ### To be published / Upcoming
-- [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md) (extended until May 15, 2020)
+- [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md)
 - Software Engineering for Mobile Applications
 - SANER 2018
 - [SE in the age of AI](2019_SE_in_the_age_of_AI.md)
