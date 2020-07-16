@@ -16,11 +16,9 @@ Knowledge-sharing platforms, such as Stack Overflow, GitHub, Twitter, and Slack,
 
 We invite the submission of high-quality papers describing original and significant work in all areas of collective knowledge in software engineering, including but not limited to:
 
-1) Improving the sharing and management of collective knowledge;
-
-2) Approaches and techniques for knowledge discovery from collective software engineering knowledge; and
-
-3) Leveraging collective knowledge to facilitate software engineering tasks.
+1. Improving the sharing and management of collective knowledge;
+2. Approaches and techniques for knowledge discovery from collective software engineering knowledge; and
+3. Leveraging collective knowledge to facilitate software engineering tasks.
 
 The evaluation of papers will be based on:
 - Underlying methodological soundness and rigor
