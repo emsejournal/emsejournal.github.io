@@ -1,4 +1,4 @@
-# Call for Papers — EMSE Special Issue on “ Collective Knowledge in Software Engineering”
+# Call for Papers — EMSE Special Issue on “Collective Knowledge in Software Engineering”
 
 A special issue of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
 
@@ -6,7 +6,7 @@ A special issue of the [Empirical Software Engineering Journal](http://www.sprin
 
 - Shaowei Wang, (Mississippi State University, USA), wang@cse.msstate.edu
 - Tse-Hsun (Peter) Chen, (Concordia University, Canada), peterc@encs.concordia.ca
- - Sebastian Baltes, (The University of Adelaide, Australia), sebastian.baltes@adelaide.edu.au
+- Sebastian Baltes, (The University of Adelaide, Australia), sebastian.baltes@adelaide.edu.au
 - Ivano Malavolta, (Vrije Universiteit Amsterdam, The Netherlands), i.malavolta@vu.nl
 - Christoph Treude, (The University of Adelaide, Australia), christoph.treude@adelaide.edu.au
 - Alexander Serebrenik, (Eindhoven University of Technology, The Netherlands), a.serebrenik@tue.nl
