@@ -49,5 +49,6 @@ The evaluation of papers will be based on:
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
 - And select “Collective Knowledge in Software Engineering" for "Please select the issue your manuscript belongs to".
+- In the cover letter, please explicitly explain why the submission fits with the special issue.
 
 For formatting guidelines as well as submission instructions, visit [http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593)
