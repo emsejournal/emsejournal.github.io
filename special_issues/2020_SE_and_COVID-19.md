@@ -18,7 +18,9 @@ Accepted papers will be published online first and in the next available issue.
 
 ## Fast track Manuscripts
 
-Authors can request to *fast track manuscripts*. To request a fast track:
+Authors who submitted **before August 21** can request a fast track of their manuscript. Any submissions after August 21, will be reviewed through the regular channels but still be included in the topicla collection.
+
+To request a fast track:
 
 1. Before submission: Please send an email with the title, author list, a preliminary abstract, and an estimated submission date to emse-eic (at) googlegroups.com. This will help recruit reviewers in advance and ask them to provide reviews quickly, so that authors get a timely decision. 
 2. After submission to the EditorialManager tool (see instructions below), please send a copy of the paper by email to emse-eic (at) googlegroups.com. This allows the review process to start while the paper is still undergoing editorial checks by the Springer team.
