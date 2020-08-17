@@ -6,6 +6,6 @@ The following EMSE papers have been awarded the Open Science badge:
 
 2. T. Amanatidis, N. Mittas, A. Moschou, A. Chatzigeorgiou, A. Ampatzoglou, and L. Angelis (2020). "Evaluating the Agreement among Technical Debt Measurement Tools: Building an Empirical Benchmark of Technical Debt Liabilities". [Springer Link page]() [Replication package]()
 
-Links to their Springer Link pages as well as their replication packages/data will be added as the papers go through the publishing process.
+Up-to-date links to their Springer Link pages as well as their replication packages/data will be added as the papers go through the publishing process.
 
 Please note that many more EMSE papers openly share their data, code, or analysis scripts. However, the papers above have also applied to have their replication package reviewed and have then been awarded the open science badge by our Open Science board.
