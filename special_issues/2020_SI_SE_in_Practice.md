@@ -5,7 +5,7 @@ A special issue of the [Empirical Software Engineering Journal](https://www.spri
 ## Editors of the Special Issue
 
 - Sigrid Eldh, Ericsson AB, Sweden
-- Davide Falessi, California Polytechnic State University, USA (contact person, d.falessi (at) gmail.com)
+- Davide Falessi, University of Rome Tor Vergata, Italy (contact person, d.falessi (at) gmail.com)
 - Burak Turhan, Monash University, Australia
 
 ## Submissions
