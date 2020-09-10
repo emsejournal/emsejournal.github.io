@@ -21,7 +21,7 @@ This special issue seeks both extended versions of ICSE SEIP 2021 papers and new
 All submissions will be reviewed using the Empirical Software Engineering Journal standards and will undergo a rigorous reviewing process. Reviews of extended papers may include some of the reviewers of the SEIP2021 paper as well as some new reviewers. The guest editors of the special issue are not permitted to submit.
 
 ## Schedule
-Papers can be submitted at any time, but no later than  **January 15, 2022**. The review process for papers will start the revision procedure as soon as submitted. Decisions about papers are made independdently of other papers. Accepted papers will be published online first and in the next issue.
+Papers can be submitted at any time, but no later than  **January 15, 2022**. The review process for papers will start the revision procedure as soon as submitted. Decisions about papers are made independently of other papers. Accepted papers will be published online first and in the next issue.
 
 The papers of the special issue will be published over several EMSE issues and collected in a topical collection. There may be as many revision rounds as needed for individual submissions, as Empirical Software Engineering journal values the quality of published papers over committing to special issue publication deadlines. However, decision for each submission will be made independently and papers will be published as online first articles and in the next issue as they are accepted for timely communication of research results.
 
