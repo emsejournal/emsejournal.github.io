@@ -5,7 +5,7 @@ A Call for papers to a special issue of the Empirical Software Engineering (EMSE
 # Editors of the special issue
 
 - Foutse Khomh (main contact), Polytechnique Montréal, Canada, [foutse.khomh@polymtl.ca](mailto:foutse.khomh@polymtl.ca)
-- Gemma Catolino, Delft University of Technology, The Netherlands, [g.catolino@tudelft.nl](mailto:g.catolino@tudelft.nl)
+- Gemma Catolino, Tilburg University, The Netherlands, [g.catolino@tilburguniversity.edu](mailto:g.catolino@tilburguniversity.edu)
 - Pasquale Salza, University of Zurich, Switzerland, [salza@ifi.uzh.ch](mailto:salza@ifi.uzh.ch)
 
 # Description of the special issue
