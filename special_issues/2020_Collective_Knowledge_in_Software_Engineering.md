@@ -42,8 +42,8 @@ The evaluation of papers will be based on:
 -   Analyzing/leveraging collective knowledge for better understanding the dynamics of software ecosystems, e.g., Python, NPM, or Unix packages
 
 ## Schedule
-- Submission Deadline: November 30, 2020  
-- First Round Review Due: February 28, 2021  
+- Submission Deadline: ~~November 30~~ December 15, 2020  
+- First Round Review Due: ~~Feburary 28~~ March 15, 2021  
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
