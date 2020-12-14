@@ -1,6 +1,6 @@
-# Call for Papers — EMSE Special Issue for the “International Conference on Program Comprehension (ICPC 2021)”
-
-A special issue of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
+# Call for Papers — EMSE Special Issue on “Program Comprehension”
+A special issue of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664). <br/>
+This special issue is a partnership with the International Conference on Program Comprehension (ICPC 2021)
 
 ## Editors of the Special Issue
 
