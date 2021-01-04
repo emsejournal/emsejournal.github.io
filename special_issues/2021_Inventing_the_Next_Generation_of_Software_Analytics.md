@@ -3,6 +3,8 @@
 A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664). <br/>
 http://www.springer.com/computer/swe/journal/1066
 
+This special issue is a partnership with the PROMISE 2020 conference.
+
 ## Editors of the Special Issue
 * Tim Menzies NC State, timm (at) ieee.org 
 * Mei Nagappan, U.Waterloo,  mei.nagappan (at) uwaterloo.ca
