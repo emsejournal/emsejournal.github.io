@@ -46,3 +46,5 @@ Please (1) select "Research Papers" and (2) later on the Additional Information 
  
 *	Answer "Yes" to "Does this paper belong to a special issue?"
 *	And select "<span style="background-color: #FFFF00">CONFERENCE YEAR</span>" for "Please select the issue your manuscript belongs to."
+
+<img src="how-to-submit.jpg">
