@@ -1,6 +1,6 @@
-_This page is for accepted speical issues._
+_This page is for accepted special issues._
 
-_We reommend at least 3-4 months between intent to submit and actual submission.
+_We recommend at least 3-4 months between intent to submit and actual submission._
 
 # Email Template for Invited Papers
 
@@ -14,7 +14,7 @@ We are happy to invite you to extend your <span style="background-color: #FFFF00
 
 <span style="background-color: #FFFF00">PAPER TITLE</span>
 
-for the Special Issue of <span style="background-color: #FFFF00">CONFERENCE</span> in the Empirical Software Engineering (EMSE) journal [](https://link.springer.com/journal/10664). We had a great set of accepted papers to select from this year but and your paper selected to be among the ones to be given the chance to extend for journal publication.
+for the Special Issue of <span style="background-color: #FFFF00">CONFERENCE</span> in the Empirical Software Engineering (EMSE) journal (<https://link.springer.com/journal/10664>). We had a great set of accepted papers to select from this year but and your paper selected to be among the ones to be given the chance to extend for journal publication.
 
 Please note that this invitation does NOT guarantee that your paper will be accepted; it gets a special "track" into the journal but will be peer reviewed as any other paper submitted to EMSE.
 
@@ -42,7 +42,7 @@ HOW TO SUBMIT
  
 To submit to the special issue, please use EMSE submission site <https://www.editorialmanager.com/emse/default.aspx>
 
-Please (1) select “Research Papers” and (2) later on the Additional Information page.
+Please (1) select "Research Papers" and (2) later on the Additional Information page.
  
-*	Answer “Yes” to “Does this paper belong to a special issue?”
-*	And select “CONFERENCE 2019” for “Please select the issue your manuscript belongs to.”
+*	Answer "Yes" to "Does this paper belong to a special issue?"
+*	And select "<span style="background-color: #FFFF00">CONFERENCE YEAR</span>" for "Please select the issue your manuscript belongs to."
