@@ -1,10 +1,14 @@
+_This page is for accepted speical issues._
+
+_We reommend at least 3-4 months between intent to submit and actual submission.
+
 # Email Template for Invited Papers
 
 Please use the following template to invite papers to the special issue/
 
 **Subject: <span style="background-color: #FFFF00">CONFERENCE YEAR</span>: EMSE Special Issue Invitation**
  
-Dear AUTHOR NAMES,
+Dear <mark>AUTHOR NAMES</mark>,
 
 We are happy to invite you to extend your CONFERENCE 2019 paper titled,
 
