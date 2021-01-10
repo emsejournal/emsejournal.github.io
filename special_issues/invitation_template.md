@@ -33,8 +33,8 @@ Note that we need you to acknowledge if you are willing to accept this invitatio
 
 Thanks and we hope you will take the chance to extend your paper!
 
-Best regards,
-<span style="background-color: #FFFF00">NAMES OF THE PC CHAIRS</span>
+Best regards,<br/>
+<span style="background-color: #FFFF00">NAMES OF THE PC CHAIRS</span><br/>
 <span style="background-color: #FFFF00">CONFERENCE YEAR</span> Program Co-Chairs.
  
  
