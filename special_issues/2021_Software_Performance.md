@@ -1,7 +1,6 @@
 # Call for Papers — EMSE Special Issue on "Software Performance"
 
-A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664). 
-http://www.springer.com/computer/swe/journal/10664
+A special issue of the [Empirical Software Engineering Journal](https://www.springer.com/journal/10664).
 
 ## Editors of the Special Issue
 * Tse-Hsun (Peter) Chen, Concordia University, Canada (peterc@encs.concordia.ca)
