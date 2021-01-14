@@ -2,6 +2,7 @@
 
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
+- [Software Performance](2021_Software_Performance.md) (May 14, 2021)
 - [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md) (January 29, 2021)
 - [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md) (February 15, 2021)
 - [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md) (February 20, 2021)
