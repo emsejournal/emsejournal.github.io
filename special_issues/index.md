@@ -2,7 +2,6 @@
 
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
-- [Collective Knowledge in Software Engineering](2020_Collective_Knowledge_in_Software_Engineering.md) (November 30, 2020)
 - [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md) (January 29, 2021)
 - [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md) (February 15, 2021)
 - [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md) (February 20, 2021)
@@ -10,9 +9,10 @@
 
 ## Published Special Issues
 
-Below is (a currently incomplete) list of published special issues (the ones published in 2014 or later):
+Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
 
 ### To be published / Upcoming
+- [Collective Knowledge in Software Engineering](2020_Collective_Knowledge_in_Software_Engineering.md)
 - [Recommendation Systems for SE](2020_SI_on_Recommendation_Systems_for_SE.md)
 - Software Engineering for Mobile Applications
 - SANER 2018
