@@ -53,7 +53,7 @@ For formatting guidelines as well as submission instructions, visit
 [http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593)
 
 ## Schedule
-Submission Deadline: 	**Friday Jan 29, 2021**
+Submission Deadline: 	**extended the deadline to Friday Feb 26**
 
 First Review Notification:	Friday May 16, 2021
 
