@@ -18,6 +18,10 @@ We recommend to use the [following template for invitations](/special_issues/inv
 
 This is up to you. You will need to give the author some time to prepare the paper. Once submitted, the process is the same as for regular EMSE submissions. Unlike with other journals, there is no fixed timeline for special issues at EMSE. Quality of the final set of papers is the main focus, always.
 
+### Q. What about the deadlines?
+
+For deadlines there are no real constraints from our perspective but typically it is good to allow at least 5-7 months after the event itself to allow time for extensions. Do not state a date for first notifications since this can be hard to guarantee anyway. Overall the focus is quality rather than keeping to a particular timeline. Since papers will be accepted and published online as they "come in" and you don't need to wait for them all to be finished and publish them in a batch this also gives more flexibility of timeline. So your main constraint in selecting a deadline should probably be to align with other major deadlines of the community, i.e. try to avoid the same week as one of the major conferences etc.
+
 ### Q. Can we extend the deadline (when it is approaching) if this is requested by (multiple) authors?
 
 Yes, this is up to you and an extension of 1-2 weeks is not uncommon. If you do make sure to email all authors about it so that the situation is the same/fair for everyone.
