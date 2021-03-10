@@ -5,6 +5,7 @@
 - [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md) (extended to February 26, 2021)
 - [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md) (extended to April 15, 2021)
 - [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md) (extended to March 14, 2021)
+- [Inventing the Next Generation of Software Analytics](2021_Inventing_the_Next_Generation_of_Software_Analytics.md) (March 15, 2021)
 - [Software Performance](2021_Software_Performance.md) (May 14, 2021)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
