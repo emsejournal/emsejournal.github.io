@@ -19,9 +19,9 @@ In addition to the open call for papers, all authors with a submission to the Sy
 The submissions will be reviewed using the Empirical Software Engineering Journal standards. The co-editors will not be permitted to submit manuscripts for consideration in the special issue. Papers will undergo a rigorous reviewing process which for extended papers may include some of the reviewers of the SBSE 2020 paper as well as some new reviewers.
 
 ## Schedule
-Submission Deadline:         **April 15, 2021**
+Submission Deadline:         **May 6, 2021**
 
-First Review Notification:   July 23, 2021
+First Review Notification:   August 23, 2021
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
