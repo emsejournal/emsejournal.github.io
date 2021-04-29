@@ -6,7 +6,8 @@ http://www.springer.com/computer/swe/journal/1066
 ## Editors of the Special Issue
 * Philippe Collet, Université Côte d’Azur, France
 * Sarah Nadi, University of Alberta, Canada
-* Christoph Seidl, IT University of Copenhagen
+* Christoph Seidl, IT University of Copenhagen, Denmark
+* Leopoldo Teixeira, Federal University of Pernambuco, Brazil
 
 ## Contact person
 * Christoph Seidl <chse AT itu DOT dk>
