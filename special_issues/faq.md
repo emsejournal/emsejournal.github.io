@@ -36,4 +36,8 @@ If you want to give some background information to authors when inviting them or
 
 ### Q. Will we need to write an editorial/introduction to the Special Issue?
 
-Yes, this is customary and often not very time consuming. You can find examples on Springer Link. Note that since the autumn of 2020 papers that are accepted to EMSE are published (online) continuously as they are finalized. This means that we will not "hold" papers for your SI until a decision on the "last" one has been taken. Thus, it makes sense that you write a short introduction with a brief paragraph per paper as a kind of "placeholder" and overview of your special issue.
+Yes, this is customary and often not very time consuming. You can find examples on Springer Link but here is one: [MSR 2018](https://rdcu.be/ckmZ6). Note that since the autumn of 2020 papers that are accepted to EMSE are published (online) continuously as they are finalized. This means that we will not "hold" papers for your SI until a decision on the "last" one has been taken. Thus, it makes sense that you write a short introduction with a brief paragraph per paper as a kind of "placeholder" and overview of your special issue.
+
+### Q. What is the continuous publication model that EMSE uses and what does it mean for our SI?
+
+Papers go into proofing and production directly after being accepted; the ones accepted earlier does **not** have to wait for the "later" ones. So there is less pressure on you "timing" the reviews or decisions: just take decisions as reviews comes in and you are ready to take a decision. The benefit for authors is that the whole production process can be much faster, typically 1-2 months instead of our previous 4-8 months.
