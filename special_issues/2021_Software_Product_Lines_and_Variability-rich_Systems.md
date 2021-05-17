@@ -56,5 +56,5 @@ For formatting guidelines as well as submission instructions, visit
 ## Schedule
 Submission Deadline: 	**extended the deadline to Friday Feb 26**
 
-First Review Notification:	Friday May 16, 2021
+First Review Notification:	~~Friday May 16, 2021~~ (delayed; as soon as possible)
 
