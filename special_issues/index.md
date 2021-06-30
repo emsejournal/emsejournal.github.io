@@ -2,8 +2,6 @@
 
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
-- [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md) (extended to May 16, 2021)
-- [Software Performance](2021_Software_Performance.md) (May 14, 2021)
 - [Software Testing in the Machine Learning Era](2021_Software_Testing_in_the_Machine_Learning_Era.md) (December 18, 2021)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
@@ -12,6 +10,8 @@
 Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
 
 ### To be published / Upcoming
+- [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md)
+- [Software Performance](2021_Software_Performance.md)
 - [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md)
 - [Inventing the Next Generation of Software Analytics](2021_Inventing_the_Next_Generation_of_Software_Analytics.md)
 - [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md)
@@ -21,7 +21,9 @@ Below is (a currently incomplete) list of published special issues (focus is on 
 - SANER 2018
 - [SE in the age of AI](2019_SE_in_the_age_of_AI.md)
 - [NASAC 2019: Intelligent Software Engineering](http://nasac2019.zju.edu.cn/intelligent.html) (Deadline: September 30, 2019)
-- [SPLC 2019: Configurable Systems](https://splc2019.net/call-for-papers/call-for-empirical-software-engineering-special-issue/) (January 15, 2020)
+
+### 2020
+- [SPLC 2019: Configurable Systems](https://link.springer.com/journal/10664/topicalCollection/AC_3ba22f0f9abaf89baba241230058512d)
 
 ### 2019
 - [ICSME 2017](https://link.springer.com/article/10.1007/s10664-019-09740-7)
