@@ -2,7 +2,7 @@
 
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
-- [Program Comprehension](2021_Program_Comprehension.md) ((September 31, 2021)
+- [Program Comprehension](2021_Program_Comprehension.md) (September 31, 2021)
 - [Software Testing in the Machine Learning Era](2021_Software_Testing_in_the_Machine_Learning_Era.md) (December 18, 2021)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 
