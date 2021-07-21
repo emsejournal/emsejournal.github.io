@@ -34,7 +34,7 @@ The evaluation of papers will be based on:
 - Tool support for program comprehension.
 
 ## Schedule
-- Submission Deadline: September 31, 2021  
+- Submission Deadline: September 30, 2021  
 - First Round Review Due: January 15, 2022  
 - Author Revision Due: April 15, 2022  
 
