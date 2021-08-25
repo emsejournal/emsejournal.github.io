@@ -41,8 +41,7 @@ Submissions could deal with all aspects of the problem, including, but not limit
 
 # Schedule
 
-- Submission Deadline: TBD
-- First Review Notification (target): TBD
+- Submission Deadline: December 1, 2021
 
 # Submission instructions
 
