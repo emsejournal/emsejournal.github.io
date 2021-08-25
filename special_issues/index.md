@@ -2,6 +2,7 @@
 
 ## Open calls for papers
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
+- [Machine Learning Techniques for Software Quality Evaluation](2021_SI_ML_in_SWQualEval.md) 2021
 - [Program Comprehension](2021_Program_Comprehension.md) (September 30, 2021)
 - [Software Testing in the Machine Learning Era](2021_Software_Testing_in_the_Machine_Learning_Era.md) (December 18, 2021)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
@@ -13,7 +14,7 @@ Below is (a currently incomplete) list of published special issues (focus is on 
 ### To be published / Upcoming
 - [Advances in Search-Based Software Engineering](2021_Advances_in_SBSE.md)
 - [Software Performance](2021_Software_Performance.md)
-- [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md)
+- [Machine Learning Techniques for Software Quality Evaluation](2020_SI_ML_in_SWQualEval.md) 2020
 - [Inventing the Next Generation of Software Analytics](2021_Inventing_the_Next_Generation_of_Software_Analytics.md)
 - [Software Product Lines and Variability-rich Systems](2021_Software_Product_Lines_and_Variability-rich_Systems.md)
 - [Collective Knowledge in Software Engineering](2020_Collective_Knowledge_in_Software_Engineering.md)
