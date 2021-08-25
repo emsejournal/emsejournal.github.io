@@ -4,7 +4,7 @@ A Call for papers to a special issue of the Empirical Software Engineering (EMSE
 
 # Editors of the special issue
 
--Valentina Lenarduzzi (main contact),LUT University, Finland,
+- Valentina Lenarduzzi (main contact),LUT University, Finland,
 [valentina.lenarduzzi@lut.fi] (mailto: valentina.lenarduzzi@lut.fi)
 - Apostolos Ampatzoglou, University of Macedonia, Greece,
 [apostolos.ampatzoglou@gmail.com] (mailto: apostolos.ampatzoglou@gmail.com)
