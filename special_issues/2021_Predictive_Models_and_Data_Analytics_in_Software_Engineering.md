@@ -1,7 +1,7 @@
 # Call for Papers ― EMSE Special Issue on “Predictive Models and Data Analytics in Software Engineering”
 
 A special issue of the Empirical Software Engineering Journal. 
-http://www.springer.com/computer/swe/journal/1066
+http://www.springer.com/computer/swe/journal/10664
 
 
 ## Editors of the Special Issue
