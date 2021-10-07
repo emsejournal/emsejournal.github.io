@@ -1,7 +1,7 @@
 # Call for Papers ― EMSE Special Issue on “Predictive Models and Data Analytics in Software Engineering”
 
 A special issue of the Empirical Software Engineering Journal. 
-http://www.springer.com/computer/swe/journal/1066
+http://www.springer.com/computer/swe/journal/10664
 
 
 ## Editors of the Special Issue
@@ -40,5 +40,5 @@ Submission Deadline: **February 1st, 2022**
 
 ## Submission Instructions
 Papers should be submitted through the Empirical Software Engineering editorial manager website (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
-Answer “Yes” to “Does this paper belong to a special issue?” and select “Predictive Models and Data Analytics in Software Engineering” for “Please select the issue your manuscript belongs to”.
+Answer “Yes” to “Does this paper belong to a special issue?” and select “PROMISE 2021” for “Please select the issue your manuscript belongs to”.
 For formatting guidelines as well as submission instructions, visit http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
