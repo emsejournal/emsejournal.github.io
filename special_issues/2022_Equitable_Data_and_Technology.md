@@ -9,7 +9,6 @@ A special issue of the Empirical Software Engineering Journal. http://www.spring
 ## Contact
 * Brittany Johnson (<johnsonb@gmu.edu>)
 * Justin Smith (<smithjus@lafayette.edu>)
-* Tim Menzies (<timm@ieee.org>) 
 
 ## Description of the Special Issue
 There are too many recent examples where software has been implicated in the perpetuation of social injustice. Society now demands that its software be fairer and more equitable. Governments, companies and professional societies such as the European Union, Microsoft, and the IEEE have white papers discussing requirements for fair and ethical software. This special issue in the Empirical Software Engineering journal is provides a venue for researchers and practitioners to share their contributions to the space of designing, building, and maintaining fair and equitable data-driven software systems.  Specifically, we seek papers that offer empirical studies based on software engineering  project data that: 
