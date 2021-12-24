@@ -1,7 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
-- [Equitable Data and Technology](/special_issues/2022_Equitable_Data_and_Technology.md) (submit by September 15, 2022)
+- [Equitable Data and Technology](2022_Equitable_Data_and_Technology.md) (submit by September 15, 2022)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md) (January 15, 2022)
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
 - [Predictive Models and Data Analytics in Software Engineering](2021_Predictive_Models_and_Data_Analytics_in_Software_Engineering.md) (submit by February 1st, 2022)
