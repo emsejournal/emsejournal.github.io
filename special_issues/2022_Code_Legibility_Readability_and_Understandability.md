@@ -4,7 +4,7 @@ This special issue is a partnership with the 1st International Workshop on Autom
 
 ## Editors of the Special Issue
 
-- Felipe Ebert, (Eindhoven University of Technology, The Netherlands), f.ebert@tue.nl;
+- Felipe Ebert (Eindhoven University of Technology, The Netherlands), f.ebert@tue.nl;
 - Fernanda Madeiral (KTH Royal Institute of Technology, Sweden), fer.madeiral@gmail.com;
 - Simone Scalabrino (University of Molise, Italy), simone.scalabrino@unimol.it;
 - Rocco Oliveto (University of Molise, Italy), rocco.oliveto@unimol.it;
