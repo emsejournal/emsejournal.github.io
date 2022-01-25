@@ -42,7 +42,7 @@ The evaluation of papers will be based on:
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/) (http://www.editorialmanager.com/emse/) as follows (1) select “Research Papers” and (2) later on the Additional Information page:
 - Answer “Yes” to “Does this paper belong to a special issue?”
-- And select “AeSIR-2021" for "Please select the issue your manuscript belongs to".
+- And select “Code Legibility, Readability, and Understandability" for "Please select the issue your manuscript belongs to".
 - In the cover letter, please explicitly explain why the submission fits with the special issue and, in case of extensions, what is the additional research with respect to the workshop version.
 
 For formatting guidelines as well as submission instructions, visit [http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593).
