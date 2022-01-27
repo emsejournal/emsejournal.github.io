@@ -50,7 +50,7 @@ Relevant topics include, but are not limited to:
 - ML to aid program comprehension, program transformation, and program generation
 
 ## Schedule
-Submission Deadline: December 18th, 2021
+Submission Deadline: January 31st, 2022
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/).
