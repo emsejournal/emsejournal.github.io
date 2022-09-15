@@ -1,4 +1,4 @@
-Welcome to the webpage of Empiricial Software Engineering. The journal provides a forum for applied software engineering research with a strong empirical component, and a venue for publishing empirical results relevant to both researchers and practitioners.
+Welcome to the webpage of Empirical Software Engineering. The journal provides a forum for applied software engineering research with a strong empirical component, and a venue for publishing empirical results relevant to both researchers and practitioners.
 
 ### About the journal
 
