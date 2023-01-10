@@ -1,17 +1,18 @@
 # Special Issues
 
 ## Open calls for papers
+- [Machine Learning Techniques for Software Quality Evaluation](2022_SI_ML_in_SWQualEval.md) (submit by March 30, 2023)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
 - [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by December 15, 2023)
-- [Equitable Data and Technology](2022_Equitable_Data_and_Technology.md) (submit by September 15, 2022)
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
-- [Code Legibility, Readability, and Understandability](2022_Code_Legibility_Readability_and_Understandability.md) (submit by August 1st, 2022)
 
 ## Published Special Issues
 
 Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
 
 ### To be published / Upcoming
+- [Equitable Data and Technology](2022_Equitable_Data_and_Technology.md)
+- [Code Legibility, Readability, and Understandability](2022_Code_Legibility_Readability_and_Understandability.md)
 - [Predictive Models and Data Analytics in Software Engineering](2021_Predictive_Models_and_Data_Analytics_in_Software_Engineering.md)
 - [Software Testing in the Machine Learning Era](2021_Software_Testing_in_the_Machine_Learning_Era.md)
 - [Software Engineering in Practice (SEIP)](2020_SI_SE_in_Practice.md)
