@@ -2,6 +2,8 @@
 
 The EMSE journal has worked with conferences to provide registered reports (RR) since 2019. You can read more about the initiative [here](https://arxiv.org/abs/2302.03649). The first stage is done as a track at a conference. If a paper gets an in principle acceptance in stage 1 (at a conference RR track), the authors then conduct the study based on the first stage protocol, write a paper reporting on it, and submits it to the EMSE journal for stage 2 review.
 
+The Registered Reports EMSE has published so far can be found in [this topical collection](https://link.springer.com/journal/10664/topicalCollection/AC_dd4c363331f30533f999822c865f34a0/page/1).
+
 The following conferences is working or have worked with us on registered reports.
 
 ## Open calls
