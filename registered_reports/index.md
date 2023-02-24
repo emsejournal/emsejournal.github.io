@@ -6,7 +6,7 @@ The Registered Reports EMSE has published so far can be found in [this topical c
 
 The following conferences is working or have worked with us on registered reports.
 
-## Open calls
+## Open/recent calls
 - [ICSME 2023](https://conf.researchr.org/track/icsme-2023/icsme-2023-registered-reports-track#Call-for-Registrations)
 - [ESEM 2023](https://conf.researchr.org/track/esem-2023/esem-2023-registered-reports)
 - [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-registered-reports#Call-for-Registrations)
