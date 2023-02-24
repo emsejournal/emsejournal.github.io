@@ -11,6 +11,8 @@ Welcome to the webpage of Empirical Software Engineering. The journal provides a
 <br/>
 [Special Issues](special_issues)
 <br/>
+[Registered Reports](registered_reports)
+<br/>
 [Some metrics](metrics) for EMSE
 <br/>
 [FAQ](faq) for EMSE
