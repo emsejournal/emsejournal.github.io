@@ -45,7 +45,7 @@ Submissions could deal with all aspects of the problem, including, but not limit
 
 # Schedule
 
-- Submission Deadline: March 30, 2023
+- Submission Deadline: ~~March 30, 2023~~ April 13, 2023
 
 # Submission instructions
 
