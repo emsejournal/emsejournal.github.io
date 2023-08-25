@@ -18,7 +18,7 @@ foutse.khomh@polymtl.ca
 Nicolás Cardozo, Universidad de los Andes, Colombia
 n.cardozo@uniandes.edu.co
 
-Dongwan Shin, University of Sheffield, United Kingdom
+Donghwan Shin, University of Sheffield, United Kingdom
 d.shin@sheffield.ac.uk
 
 
