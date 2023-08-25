@@ -10,8 +10,8 @@ http://www.springer.com/computer/swe/journal/10664
 
 
 ## Contact person
-* Steffen Herbold, University of Passau
-* Eunjong Choi, Kyoto Institute of Technology
+* Steffen Herbold, University of Passau - steffen.herbold@uni-passau.de
+* Eunjong Choi, Kyoto Institute of Technology - echoi@kit.ac.jp
 
 
 ## Description of the Special Issue
