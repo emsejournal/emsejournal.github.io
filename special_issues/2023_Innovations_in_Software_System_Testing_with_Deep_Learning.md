@@ -18,7 +18,7 @@ foutse.khomh@polymtl.ca
 Nicolás Cardozo, Universidad de los Andes, Colombia
 n.cardozo@uniandes.edu.co
 
-Dongwan Shin, University of Sheffield, United Kingdom
+Donghwan Shin, University of Sheffield, United Kingdom
 d.shin@sheffield.ac.uk
 
 
@@ -78,6 +78,6 @@ At the site:
 (1) In “Article Type Selection”, select "Research Papers".
 (2) In “Additional Information”:
 (3) answer "Yes" to "Does this paper belong to a special issue?";
-(4) select "Software Testing in the Machine Learning Era” for "Please select the issue your manuscript belongs to".
+(4) select "Innovations in Software System Testing with Deep Learning” for "Please select the issue your manuscript belongs to".
 
 For formatting guidelines as well as submission instructions, please visit Empirical Software Engineering | [Submission guidelines](springer.com).
