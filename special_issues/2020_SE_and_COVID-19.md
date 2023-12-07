@@ -1,6 +1,6 @@
 # Call for Papers — "Software Engineering and COVID-19"  
 
-A topical collection of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
+A topical collection of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664). This collection was closed in the autumn of 2023.
 
 ## Description
 
@@ -12,13 +12,11 @@ This topical collection will collect papers where the pandemic is directly and/o
 
 ## Schedule
 
-There is no submission deadline. Papers can be submitted at any time.
-
-Accepted papers will be published online first and in the next available issue.
+No more submissions possible, this call has closed.
 
 ## Fast track Manuscripts
 
-Authors who submitted **before August 21** can request a fast track of their manuscript. Any submissions after August 21, will be reviewed through the regular channels but still be included in the topicla collection.
+Authors who submitted **before August 21, 2020** can request a fast track of their manuscript. Any submissions after August 21, will be reviewed through the regular channels but still be included in the topicla collection.
 
 To request a fast track:
 
