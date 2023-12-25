@@ -11,7 +11,7 @@ http://www.springer.com/computer/swe/journal/10664
 * Sagar Sen, SINTEF, Norway
 
 
-## Contact person
+## Contact Person
 * Bowen Xu, North Carolina State University - bxu22@ncsu.edu
 
 
