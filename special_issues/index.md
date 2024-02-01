@@ -1,18 +1,22 @@
 # Special Issues
 
 ## Open calls for papers
+- [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
 - [Trends in Predictive Models and Data Analytics in Software Engineering](2023_SI_PROMISE.md) (submit by April 14, 2024)
 - [Innovations in Software System Testing with Deep Learning](2023_Innovations_in_Software_System_Testing_with_Deep_Learning.md) (submit by ~~January 31, 2024~~ February 28, 2024)
 - [Machine Learning Techniques for Software Quality Evaluation](2022_SI_ML_in_SWQualEval.md) (submit by ~~March 30, 2023~~ April 13, 2023)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
-- [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by December 15, 2023)
+- [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by ~~December 15, 2023~~ December 30, 2023)
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
+- [Software Analysis, Evolution, and Reengineering (SANER)](2024_SI_SANER24.md) (submit by September 30, 2024)
 
 ## Published Special Issues
 
 Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
 
-### To be published / Upcoming
+### Old / Deadline passed
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
+- [Machine Learning Techniques for Software Quality Evaluation](2022_SI_ML_in_SWQualEval.md) (submit by ~~March 30, 2023~~ April 13, 2023)
 - [Equitable Data and Technology](2022_Equitable_Data_and_Technology.md)
 - [Code Legibility, Readability, and Understandability](2022_Code_Legibility_Readability_and_Understandability.md)
 - [Predictive Models and Data Analytics in Software Engineering](2021_Predictive_Models_and_Data_Analytics_in_Software_Engineering.md)
@@ -31,6 +35,7 @@ Below is (a currently incomplete) list of published special issues (focus is on 
 - SANER 2018
 - [SE in the age of AI](2019_SE_in_the_age_of_AI.md)
 - [NASAC 2019: Intelligent Software Engineering](http://nasac2019.zju.edu.cn/intelligent.html) (Deadline: September 30, 2019)
+- [Software Engineering and COVID-19](2020_SE_and_COVID-19.md)
 
 ### 2020
 - [SPLC 2019: Configurable Systems](https://link.springer.com/journal/10664/topicalCollection/AC_3ba22f0f9abaf89baba241230058512d)
