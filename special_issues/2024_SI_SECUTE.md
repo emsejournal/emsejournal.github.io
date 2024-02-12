@@ -13,7 +13,7 @@ A special issue of the Empirical Software Engineering Journal. http://www.spring
 
 - Valeria Pontillo. valeria.pontillo@vub.be
 - Emanuele Iannone, emanuele.iannone@tuhh.de 
-- Coen De Roover, coen.de.roover@tuhh.de 
+- Coen De Roover, coen.de.roover@vub.be 
 - Riccardo Scandariato, scandariato@tuhh.de
 
 ## Description of the Special Issue
