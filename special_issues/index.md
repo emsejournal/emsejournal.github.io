@@ -1,11 +1,15 @@
 # Special Issues
 
 ## Open calls for papers
-- [Security Testing for Complex Software Systems (SECUTE)](2024_SI_SECUTE.md) (submit by October 31, 2024)
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 - [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
+- [Security Testing for Complex Software Systems (SECUTE)](2024_SI_SECUTE.md) (submit by October 31, 2024)
 - [Trends in Predictive Models and Data Analytics in Software Engineering](2023_SI_PROMISE.md) (submit by April 14, 2024)
-- [Innovations in Software System Testing with Deep Learning](2023_Innovations_in_Software_System_Testing_with_Deep_Learning.md) (submit by January 31, 2024)
+- [Innovations in Software System Testing with Deep Learning](2023_Innovations_in_Software_System_Testing_with_Deep_Learning.md) (submit by ~~January 31, 2024~~ February 28, 2024)
+- [Machine Learning Techniques for Software Quality Evaluation](2022_SI_ML_in_SWQualEval.md) (submit by ~~March 30, 2023~~ April 13, 2023)
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
 - [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by ~~December 15, 2023~~ December 30, 2023)
+- [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
 - [Software Analysis, Evolution, and Reengineering (SANER)](2024_SI_SANER24.md) (submit by September 30, 2024)
 
 ## Published Special Issues
