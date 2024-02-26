@@ -1,6 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 - [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
 - [Trends in Predictive Models and Data Analytics in Software Engineering](2023_SI_PROMISE.md) (submit by April 14, 2024)
 - [Innovations in Software System Testing with Deep Learning](2023_Innovations_in_Software_System_Testing_with_Deep_Learning.md) (submit by ~~January 31, 2024~~ February 28, 2024)
