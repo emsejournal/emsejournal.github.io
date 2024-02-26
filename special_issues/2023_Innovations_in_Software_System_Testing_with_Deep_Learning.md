@@ -68,9 +68,9 @@ Relevant topics include, but are not limited to:
 - ML/DL to aid program comprehension, program transformation, and program generation
 
 ## Schedule
-Submission Deadline: January 31st, 2024
+Submission Deadline: ~~January 31st, 2024~~ February 28th, 2024
 
-First Notification: March 31st, 2024
+First Notification: ~~March 31st, 2024~~ April 30, 2024
 
 ## Submission Instructions
 Papers should be submitted through the [Empirical Software Engineering editorial manager website](http://www.editorialmanager.com/emse/).
