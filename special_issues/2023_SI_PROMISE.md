@@ -36,7 +36,7 @@ Submitted papers should present original, unpublished work, relevant to one of t
 
 
 ## Schedule
-Submission Deadline: ~~April 14th, 2024~~ **April 28th, 2024**
+Submission Deadline: ~~April 14th, 2024~~ **May 3rd, 2024**
 
 
 ## Submission Instructions
