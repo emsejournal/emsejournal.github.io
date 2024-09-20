@@ -12,10 +12,14 @@ Our submission guidelines have detailed information about this: [Conflicts of In
 but is more focused on the actual work/submission rather than for proposing reviewers etc. General Springer guidelines is more applicable for proposing reviewers (scroll to bottom of page): [Ethical responsibilities of authors](https://www.springer.com/gp/editorial-policies/ethical-responsibilities-of-authors)
 We think that the ACM Conflict of Interest policy is a good one that should be considered, in general, in the SE community: [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest)
 
-### Q: Does EMSE accept and publish secondary studies such as systematic literature reviews (SLRs) or systematic mapping (sysmap) studies?
+### Q: Does EMSE accept submissions and, potentially, publish secondary studies such as systematic literature reviews (SLRs) or systematic mapping (sysmap) studies?
 
-While EMSE does occasionally publish secondary studies like systematic reviews, the bar is set high. A traditional review that merely summarizes the state of the art or highlights trends is usually not sufficient. We expect a deeper analysis, often involving the synthesis of information into a model, framework, or other form that offers meaningful new insights to the research community.
+EMSE occasionally publishes secondary studies, but the expectations are high. A review that merely summarizes the current state of the field or outlines trends is unlikely to be accepted. We look for more —- specifically, a deeper analysis that synthesizes findings into a model, framework, or other meaningful contribution that advances the research community's understanding.
 
-Moreover, if similar SLRs or sysmap studies have already been conducted, the rationale for a new one must be compelling. Authors need to clearly explain what added value their study brings compared to existing work. Simply providing an updated review without contributing substantial new insights won’t meet our standards.
+If similar SLRs or SysMap studies already exist, authors must provide a strong justification for conducting a new one. It's not enough to update previous work; the study must offer significant new insights. Without this added value, the review won’t meet EMSE's standards.
 
-Overall, these requirements can be challenging to meet, and in many cases, other venues may be more suitable for such studies. However, we do not categorically exclude them—if your work truly offers fresh perspectives and significant value, we are open to considering it.
+Additionally, EMSE generally does not consider tertiary studies, such as a SLR of SLRs, as relevant. These studies tend to focus less on the primary research they depend on and more on scientometric or bibliometric analyses, which are better suited for venues specializing in those fields.
+
+If you believe your study meets our high standards, keep in mind that this is the **Empirical** Software Engineering journal. Your analysis or synthesis is less likely to be in scope if it doesn’t involve or analyse empirical aspects of the primary studies under review.
+
+While meeting these criteria can be demanding, we do not rule out such studies entirely. If your work provides fresh perspectives and substantial contributions, we welcome the opportunity to consider it.
