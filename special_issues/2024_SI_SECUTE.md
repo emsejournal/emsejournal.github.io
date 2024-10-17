@@ -43,7 +43,8 @@ Topics of interest include, but are not limited to, the following:
 
 ## Schedule
 
-Submission Deadline: **October 31, 2024**
+~~Submission Deadline: **October 31, 2024 (AoE)**~~  
+Submission Deadline: **November 30, 2024 (AoE)** (New!)
 
 ## Submission Instructions
 
