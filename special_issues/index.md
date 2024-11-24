@@ -1,6 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
+- [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 - [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
 - [Security Testing for Complex Software Systems (SECUTE)](2024_SI_SECUTE.md) (submit by ~~October 31, 2024~~ November 30, 2024)
