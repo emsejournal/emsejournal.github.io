@@ -53,7 +53,7 @@ Submitted papers should present original, unpublished work, relevant to one of t
 Papers should be submitted through the Empirical Software Engineering editorial manager website (<http://www.editorialmanager.com/emse/>) as follows:
 1. Select “Research Papers” 
 2. on the Additional Information page:
-	Answer “Yes” to “Does this paper belong to a special issue?” and select “SE-LLMs” for “Please select the issue your manuscript belongs to”.
+	Answer “Yes” to “Does this paper belong to a special issue?” and select “2025-SE-LLMs” for “Please select the issue your manuscript belongs to”.
 
 
 For formatting guidelines as well as submission instructions, visit <http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593>
