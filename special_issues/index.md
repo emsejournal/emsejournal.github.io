@@ -1,6 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
+- [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
