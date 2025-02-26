@@ -1,6 +1,7 @@
 # Special Issues
 
 ## Open calls for papers
+- [Human-Centered AI for Software Engineering](2025_SI_HumanAISE.md) (submit by December 10, 2025)
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
