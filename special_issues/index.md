@@ -1,7 +1,9 @@
 # Special Issues
 
 ## Open calls for papers
+
 - [Human-Centered AI for Software Engineering](2025_SI_HumanAISE.md) (submit by December 10, 2025)
+- [Software Analysis, Evolution, and Reengineering (SANER)](2025_SI_SANER25.md) (submit by September 30, 2025)
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
@@ -14,7 +16,7 @@
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
 - [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by ~~December 15, 2023~~ December 30, 2023)
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
-- [Software Analysis, Evolution, and Reengineering (SANER)](2024_SI_SANER24.md) (submit by September 30, 2024)
+- [Software Analysis, Evolution, and Reengineering (SANER)](2024_SI_SANER24.md) (submit by ~~September 30, 2024~~)
 
 ## Published Special Issues
 
