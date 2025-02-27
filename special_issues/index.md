@@ -8,6 +8,12 @@
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
+
+## Published Special Issues
+
+Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
+
+### Old / Deadline passed
 - [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
 - [Security Testing for Complex Software Systems (SECUTE)](2024_SI_SECUTE.md) (submit by ~~October 31, 2024~~ November 30, 2024)
 - [Trends in Predictive Models and Data Analytics in Software Engineering](2023_SI_PROMISE.md) (submit by  ~~April 14, 2024~~ May 3rd, 2024)
@@ -17,12 +23,6 @@
 - [Cooperative and Human Aspects of Software Engineering (CHASE)](2023_SI_CHASE.md) (submit by ~~December 15, 2023~~ December 30, 2023)
 - [Software Engineering and COVID-19](2020_SE_and_COVID-19.md) (no deadline, submit any time)
 - [Software Analysis, Evolution, and Reengineering (SANER)](2024_SI_SANER24.md) (submit by ~~September 30, 2024~~)
-
-## Published Special Issues
-
-Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
-
-### Old / Deadline passed
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2022_SI_PROMISE.md) (submit by April 15, 2023)
 - [Machine Learning Techniques for Software Quality Evaluation](2022_SI_ML_in_SWQualEval.md) (submit by ~~March 30, 2023~~ April 13, 2023)
 - [Equitable Data and Technology](2022_Equitable_Data_and_Technology.md)
