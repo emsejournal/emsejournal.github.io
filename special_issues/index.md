@@ -6,6 +6,7 @@
 - [Software Analysis, Evolution, and Reengineering (SANER)](2025_SI_SANER25.md) (submit by September 30, 2025)
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
+- [When Software Security Meets Large Language Models: Opportunities and Challenges](2025_SI_LLM4Security.md) (submit by August 15, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by May 2, 2025)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 
