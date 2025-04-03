@@ -1,23 +1,4 @@
-# Call for Papers
-## Emerging Concerns in Technical Debt
-This special issue seeks to explore the evolving landscape of TD in modern software systems, focusing on its implications and management within emerging domains such as AI, data-driven systems, and cyber-physical environments. As these technologies become increasingly prevalent, understanding and mitigating TD in such contexts is crucial for advancing software engineering practices.
-The goal of this special issue is to provide a forum for empirical research on the evolution and impact of TD in these systems. Contributions should be grounded in strong empirical evidence, offering rigorous analysis and insights into the nature, impact, and mitigation of TD. The special issue invites submissions that:
-* Present robust empirical studies to deepen our understanding of TD in AI-enabled systems, data-driven applications, or cyber-physical environments.
-* Analyze the applicability and effectiveness of TD management strategies in high-dependency, high-variability, and data-intensive contexts.
-* Propose and validate innovative approaches for measuring, managing, and mitigating TD.
-Submissions should focus on empirical investigations or validated methodologies in the following areas:
-* Studies on the manifestation and evolution of TD in AI-enabled, data-driven, or cyber-physical systems.
-* Empirical evaluations of the impact of TD on system performance, maintainability, scalability, or trustworthiness.
-* Case studies showcasing real-world experiences with managing TD in such environments.
-* Rigorous assessments of tools and techniques for automating TD detection and mitigation.
-* Lessons learned from managing TD during software evolution and maintenance.
-* Re-evaluations and improvements of existing TD frameworks and methodologies.
-* User studies to understand practitioners’ experiences and challenges in dealing with TD.
-* Longitudinal studies investigating the lifecycle and implications of TD in such systems.
-
-
-
-# Call for Papers — EMSE Special Issue for the “Emerging Concerns in Technical Debt”
+# Call for Papers — EMSE Special Issue for the “Emerging Concerns in Technical Debt Management”
 
 A special issue of the [Empirical Software Engineering Journal](http://www.springer.com/computer/swe/journal/10664).
 
@@ -64,10 +45,7 @@ We seek submissions that address the following topics or related areas:
 Submissions must clearly articulate how the chosen domain or system introduces unique considerations or challenges for TD research and practice.
 
 ## Schedule
-- Date of expected first submission: June 9, 2025
-- Date first review round completed: July 15, 2025
-- Date revised manuscripts due: Aug 15, 2025
-- Date completion of the review and vision process (final notification): Oct 15, 2025   
+- Submission deadline: June 9, 2025 
 
 ## Submission Instructions
 Papers should be submitted via the [Empirical Software Engineering Journal](https://www.editorialmanager.com/emse/default.aspx )
