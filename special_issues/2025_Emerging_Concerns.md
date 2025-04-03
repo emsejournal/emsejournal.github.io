@@ -56,3 +56,4 @@ Follow these steps:
 - In the cover letter, clearly explain why your submission aligns with the special issue. If the paper is an extension, please explicitly highlight the additional research and contributions made.
 
 For formatting guidelines as well as submission instructions, visit [http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593](http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593)
+
