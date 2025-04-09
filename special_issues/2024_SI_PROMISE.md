@@ -36,7 +36,7 @@ Submitted papers should present original, unpublished work, relevant to one of t
 
 
 ## Schedule
-Submission Deadline: **April 12th, 2025**
+Submission Deadline: **April 26th, 2025**
 
 
 ## Submission Instructions
