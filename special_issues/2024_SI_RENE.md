@@ -29,7 +29,7 @@ Please note that the above list of topics is *not* exhaustive. If you are unsure
 
 ## Important Dates
 
-Deadline for submission: May 26, 2025
+Deadline for submission: June 20, 2025
 
 ## Submission Instructions
 
