@@ -9,7 +9,7 @@
 - [When Software Security Meets Large Language Models: Opportunities and Challenges](2025_SI_LLM4Security.md) (submit by August 15, 2025)
 - [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by June 20, 2025)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
-- [Emerging Concerns in Technical Debt Management](2025_Emerging_Concerns.md) (submit by June 9, 2025)
+- [Emerging Concerns in Technical Debt Management](2025_Emerging_Concerns.md) (submit by ~~ June 9, 2025~~  August 3, 2025)
 
 ## Published Special Issues
 
