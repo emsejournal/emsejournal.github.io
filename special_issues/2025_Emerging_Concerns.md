@@ -45,7 +45,7 @@ We seek submissions that address the following topics or related areas:
 Submissions must clearly articulate how the chosen domain or system introduces unique considerations or challenges for TD research and practice.
 
 ## Schedule
-- Submission deadline: June 9, 2025 
+- Submission deadline: ~~June 9, 2025~~ August 24, 2025
 
 ## Submission Instructions
 Papers should be submitted via the [Empirical Software Engineering Journal](https://www.editorialmanager.com/emse/default.aspx )
