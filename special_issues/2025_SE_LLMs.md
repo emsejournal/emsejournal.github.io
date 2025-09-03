@@ -39,10 +39,10 @@ This special issue aims to bridge these research gaps by offering a dedicated pl
 
 ### Important Dates
 
-- **Expected First Submission:** September 5, 2025 
-- **(Tentative) First Review Round Completed:** October 10, 2025  
-- **(Tentative) Revised Manuscripts Due:** November 14, 2025  
-- **(Tentative) Final Author Notification:** November 28, 2025  
+- **Expected First Submission:** November 15, 2025
+- **(Tentative) First Review Round Completed:** January 09, 2026
+- **(Tentative) Revised Manuscripts Due:** February 20, 2026
+- **(Tentative) Final Author Notification:** March 27, 2026 
 
 ### Submission type
 We welcome submissions of original research papers,  case studies, and practical reports. All submissions should provide substantial evidence to support their claims through empirical studies, simulations, formal proofs, or other types of validation. Authors are encouraged to make Open Science material available at the time of submission, such as study protocols, raw or analysed data, data analysis scripts, source code, and experimental materials.
