@@ -7,8 +7,6 @@
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
 - [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
 - [When Software Security Meets Large Language Models: Opportunities and Challenges](2025_SI_LLM4Security.md) (submit by August 15, 2025)
-- [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by June 20, 2025)
-- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 - [Emerging Concerns in Technical Debt Management](2025_Emerging_Concerns.md) (submit by ~~ June 9, 2025~~  August 24, 2025)
 
 ## Published Special Issues
@@ -16,6 +14,9 @@
 Below is (a currently incomplete) list of published special issues (focus is on the ones published in 2014 or later):
 
 ### Old / Deadline passed
+
+- [Replications and Negative Results (RENE)](2024_SI_RENE.md) (submit by June 20, 2025)
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2024_SI_PROMISE.md) (submit by April 12, 2025)
 - [Software Engineering and AI for Data Quality](2024_SI_SEA4DQ.md) (submit by December 1, 2024)
 - [Security Testing for Complex Software Systems (SECUTE)](2024_SI_SECUTE.md) (submit by ~~October 31, 2024~~ November 30, 2024)
 - [Trends in Predictive Models and Data Analytics in Software Engineering](2023_SI_PROMISE.md) (submit by  ~~April 14, 2024~~ May 3rd, 2024)
