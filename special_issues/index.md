@@ -2,6 +2,7 @@
 
 ## Open calls for papers
 
+- [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2025_SI_PROMISE.md) (submit by February 28, 2026)
 - [Human-Centered AI for Software Engineering](2025_SI_HumanAISE.md) (submit by December 10, 2025)
 - [Software Analysis, Evolution, and Reengineering (SANER)](2025_SI_SANER25.md) (submit by September 30, 2025)
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (submit by September 15, 2025)
