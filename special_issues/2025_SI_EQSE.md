@@ -42,8 +42,9 @@ Topics of interest include, but are not limited to, the following:
 
 ## Schedule
 
-Submission Deadline: **September 15, 2025 (AoE)**
+Submission Deadline: **March 1, 2026 (AoE)**
 
 ## Submission Instructions
 
 Papers should be submitted through the Empirical Software Engineering editorial manager website (http://www.editorialmanager.com/emse/) as follows (1) select "Research Papers" and (2) later on the Additional Information page: Answer "Yes" to "Does this paper belong to a special issue?" and select "Empirical Studies for Quantum Software Engineering" for "Please select the issue your manuscript belongs to". For formatting guidelines as well as submission instructions, visit http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
+
