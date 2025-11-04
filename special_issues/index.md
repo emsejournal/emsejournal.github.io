@@ -5,7 +5,7 @@
 - [Human-Centered AI for Software Engineering](2025_SI_HumanAISE.md) (submit by December 10, 2025)
 - [Software Analysis, Evolution, and Reengineering (SANER)](2025_SI_SANER25.md) (submit by September 30, 2025)
 - [Empirical Studies for Quantum Software Engineering](2025_SI_EQSE.md) (extended to March 1, 2026)
-- [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (submit by September 5, 2025)
+- [Advancing Software Engineering with Large Language Models](2025_SE_LLMs.md) (extended to November 28, 2025)
 - [When Software Security Meets Large Language Models: Opportunities and Challenges](2025_SI_LLM4Security.md) (submit by August 15, 2025)
 - [Emerging Concerns in Technical Debt Management](2025_Emerging_Concerns.md) (submit by ~~ June 9, 2025~~  August 24, 2025)
 
