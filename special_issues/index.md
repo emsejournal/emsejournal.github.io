@@ -2,6 +2,7 @@
 
 ## Open calls for papers
 
+- [Empirical Studies on Prompts and other Instruction Artifacts in Software Engineering (PROMPT-SE)](2026_SI_PROMPT_SE.md) (submit by March 1, 2027)
 - [Agentic Software Engineering: The Rise of AI Teammates](2026_SI_Agentic_SE.md) (submit by September 28, 2026)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2025_SI_PROMISE.md) (submit by February 28, 2026)
 - [Human-Centered AI for Software Engineering](2025_SI_HumanAISE.md) (submit by December 10, 2025)
