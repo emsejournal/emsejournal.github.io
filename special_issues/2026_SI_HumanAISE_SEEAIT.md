@@ -13,20 +13,20 @@ A special issue of the Empirical Software Engineering Journal.
 - Alberto Bacchelli, University of Zurich, Switzerland 
 - Kelly Blincoe, University of Auckland, New Zealand
 - Thomas Zimmermann, University of California, Irvine, USA
-- Eriks Klotins, Blekinge Tekniska Högskola, Sweden
-- Lucas Gren, Getinge AB, Sweden
-
+- Eriks Klotins, Blekinge Institute of Technology, Sweden
+- Davide Fucci, Blekinge Institute of Technology, Sweden
 
 
 ### Contact Person
 - Yu Huang [yu.huang@vanderbilt.edu](mailto:yu.huang@vanderbilt.edu)
-- Felix Dobslaw
+- Felix Dobslaw [felix.dobslaw@miun.se](mailto:felix.dobslaw@miun.se)
 - Daye Nam [daye.nam@uci.edu](mailto:daye.nam@uci.edu)
 - Zhou Yang [zy25@ualberta.ca](mailto:zy25@ualberta.ca)
 - Alberto Bacchelli [bacchelli@ifi.uzh.ch](mailto:bacchelli@ifi.uzh.ch)
-- Kelly Blincoe [k.blincoe@auckland.ac.nz](k.blincoe@auckland.ac.nz)
+- Kelly Blincoe [k.blincoe@auckland.ac.nz](mailto:k.blincoe@auckland.ac.nz)
 - Thomas Zimmermann [tzimmer@uci.edu](mailto:tzimmer@uci.edu)
-- Eriks Klotins
+- Eriks Klotins [erik.klotins@bth.se](mailto:erik.klotins@bth.se)
+- Davide Fucci [davide.fucci@bth.se](mailto:davide.fucci@bth.se)
 
 
 ## Description of the Special Issue
