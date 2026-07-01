@@ -15,6 +15,7 @@ A special issue of the Empirical Software Engineering Journal.
 - Thomas Zimmermann, University of California, Irvine, USA
 - Eriks Klotins, Blekinge Institute of Technology, Sweden
 - Davide Fucci, Blekinge Institute of Technology, Sweden
+- Lucas Gren, Getinge AB, Sweden
 
 
 ### Contact Person
@@ -27,6 +28,7 @@ A special issue of the Empirical Software Engineering Journal.
 - Thomas Zimmermann [tzimmer@uci.edu](mailto:tzimmer@uci.edu)
 - Eriks Klotins [erik.klotins@bth.se](mailto:erik.klotins@bth.se)
 - Davide Fucci [davide.fucci@bth.se](mailto:davide.fucci@bth.se)
+- Lucas Gren [lucas.gren@getinge.com](mailto:lucas.gren@getinge.com)
 
 
 ## Description of the Special Issue
