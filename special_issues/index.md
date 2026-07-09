@@ -1,4 +1,4 @@
-# Special Issues
+# Special Issues 
 
 ## Open calls for papers
 
