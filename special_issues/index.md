@@ -4,6 +4,7 @@
 
 - [Human-Centered AI Transformation for Software Engineering](2026_SI_HumanAISE_SEEAIT.md) (submit by January 31, 2027)
 - [Empirical Studies on Prompts and other Instruction Artifacts in Software Engineering (PROMPT-SE)](2026_SI_PROMPT_SE.md) (submit by March 1, 2027)
+- [Software Security Testing (SECUTE)](2026_SI_SECUTE.md) (submit by November 30, 2026)
 - [Agentic Software Engineering: The Rise of AI Teammates](2026_SI_Agentic_SE.md) (submit by September 28, 2026)
 - [Predictive Models and Data Analytics in Software Engineering (PROMISE)](2025_SI_PROMISE.md) (submit by February 28, 2026)
 - [Software Analysis, Evolution, and Reengineering (SANER)](2025_SI_SANER25.md) (submit by September 30, 2025)
