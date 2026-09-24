@@ -44,7 +44,7 @@ We invite high-quality research that investigates the following (but not limited
 
 This special issue follows a **rolling review process**. Authors are encouraged to submit their papers as soon as they are ready rather than waiting for the final deadline. The review process will begin promptly upon receiving each submission, and accepted papers will be published online continuously as they are finalized.
 
-- Final Submission Deadline: September 28, 2026
+- Final Submission Deadline: October 15, 2026
 
 ## Submission Instructions
 
