@@ -51,4 +51,4 @@ Submission Deadline: **November 30, 2026 (AoE)**
 
 ## Submission Instructions
 
-Papers should be submitted through the Empirical Software Engineering editorial manager website (http://www.editorialmanager.com/emse/) as follows (1) select "Research Papers" and (2) later on the Additional Information page: Answer "Yes" to "Does this paper belong to a special issue?" and select "SECUTE 2024" for "Please select the issue your manuscript belongs to". For formatting guidelines as well as submission instructions, visit http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
+Papers should be submitted through the Empirical Software Engineering editorial manager website (http://www.editorialmanager.com/emse/) as follows (1) select "Research Papers" and (2) later on the Additional Information page: Answer "Yes" to "Does this paper belong to a special issue?" and select "SECUTE 2026" for "Please select the issue your manuscript belongs to". For formatting guidelines as well as submission instructions, visit http://www.springer.com/computer/swe/journal/10664?detailsPage=pltci_2530593
