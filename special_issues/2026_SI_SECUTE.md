@@ -47,7 +47,8 @@ Topics of interest include, but are not limited to, the following:
 
 ## Schedule
 
-Submission Deadline: **November 30, 2026 (AoE)**
+~~Submission Deadline: **November 30, 2026 (AoE)**~~  
+Submission Deadline: **February 28, 2027 (AoE)** (New!)
 
 ## Submission Instructions
 
